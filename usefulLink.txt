@@ -1,0 +1,5 @@
+标准库：https://pkg.go.dev/github.com/gin-gonic/gin#Context.File
+OA：http://oa.huaqin.com/wui/main.jsp?templateId=1
+golang中文版：https://flydk.gitbooks.io/go/content/ch1/ch1-01.html
+画图process on：https://www.processon.com/
+网页版golang编程工具：https://golang.google.cn/
